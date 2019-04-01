@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name isa_svga-rescue)(type Legacy)(uri ${KIPRJMOD}/isa_svga-rescue.lib)(options "")(descr ""))
+)
