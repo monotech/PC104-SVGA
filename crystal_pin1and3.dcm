@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Crystal_Pin1and3
+D Four pin crystal
+K quartz ceramic resonator oscillator
+F ~
+$ENDCMP
+#
+#End Doc Library
